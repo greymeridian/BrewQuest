@@ -85,6 +85,4 @@ Both partners will write HTML, CSS, and JavaScript within their features. This s
 
 ## Licence
 
-## Licence
-
 No licence is currently provided for this project. Ronny and Felipe may agree on a licence and add a `LICENSE` file in the future.
