@@ -86,3 +86,15 @@ Both partners will write HTML, CSS, and JavaScript within their features. This s
 ## Licence
 
 No licence is currently provided for this project. Ronny and Felipe may agree on a licence and add a `LICENSE` file in the future.
+
+---
+
+## Changelog
+
+### Milestone 2: Brewery discovery prototype
+
+- Fetches live Kelowna brewery results from Open Brewery DB when the page opens.
+- Displays each brewery’s name, type, and location in a list.
+- Builds the brewery-type dropdown from the returned data. Selecting a type filters the loaded results without another API request, and **All types** restores the full list.
+- Shows a loading message, a result count, an empty-state message, or an error message depending on the request outcome.
+- Keeps the API request in `js/api.js` and the rendering and filter logic in `js/app.js`.
