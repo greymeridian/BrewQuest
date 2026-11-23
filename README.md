@@ -5,6 +5,10 @@ A Canadian brewery discovery app and personal tasting journal, built for the COS
 **Authors:** Ronald Lorette and Felipe Rebello
 **Status:** Planning (M1 Proposal)
 
+**Current Live Page URL:*** https://greymeridian.github.io/BrewQuest/
+
+---
+
 ## About
 
 BrewQuest will help users discover breweries by name, city, or province using live data from Open Brewery DB. Users will be able to filter results by brewery type, save a wishlist, and record visits with personal ratings and tasting notes.
