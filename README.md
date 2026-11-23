@@ -5,7 +5,7 @@ A Canadian brewery discovery app and personal tasting journal, built for the COS
 **Authors:** Ronald Lorette and Felipe Rebello
 **Status:** Planning (M1 Proposal)
 
-**Current Live Page URL:*** https://greymeridian.github.io/BrewQuest/
+**Current Live Page URL:** https://greymeridian.github.io/BrewQuest/
 
 ---
 
